@@ -1,0 +1,5 @@
+{
+  "name": "Kirana Calculator",
+  "description": "A mobile-friendly tool for Indian kirana shopkeepers to quickly calculate price-to-weight and weight-to-price conversions based on per-kilogram rates.",
+  "requestFramePermissions": []
+}
